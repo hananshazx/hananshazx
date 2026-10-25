@@ -1,4 +1,11 @@
 ## Hi there 👋
+# Hi, I'm @hananshazx 👋
+
+Connect with me:
+- 📸 Instagram:https://www.instagram.com/hananshazx?obrf=eGtrang0ejQ4Z3d5
+- 🎥 YouTube:https://youtube.com/@hananshazx?si=WFkws7MB1p1uoj--
+- 💼 Discord:https://discordapp.com/users/1486026320566816892
+- 🐦 X (Twitter):https://x.com/hananshazx?s=20
 
 <!--
 **hananshazx/hananshazx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
